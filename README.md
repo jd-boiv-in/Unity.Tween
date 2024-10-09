@@ -1,2 +1,5 @@
-# Unity.NeonTween
-Tweening engine initially developed for Neon Rumble
+# Unity.Tween
+Simple tweening engine for Unity
+
+TODO:
+- Add examples / better readme
