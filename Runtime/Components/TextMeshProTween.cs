@@ -1,5 +1,5 @@
 ﻿using JD.Extensions;
-using jd.boivin.unity.text;
+using JD.Text;
 using TMPro;
 using UnityEngine;
 
