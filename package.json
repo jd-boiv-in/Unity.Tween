@@ -1,13 +1,11 @@
 {
-  "name": "jd.boivin.unity.tween",
+  "name": "jd.boiv.in.tween",
   "version": "1.0.0",
   "displayName": "Tween",
-  "description": "",
-  "unity": "2019.3",
-  "unityRelease": "5f1",
+  "description": "Simple tweening for unity",
   "dependencies": {
-    "jd.boivin.unity.extensions": "",
-    "jd.boivin.unity.text": ""
+    "jd.boiv.in.extensions": "1.0.0",
+    "jd.boiv.in.text": "1.0.0"
  },
  "keywords": [
     "tween"
