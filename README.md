@@ -87,7 +87,7 @@ List of supported easing:
 
 ## Samples
 
-A [sample project](https://github.com/starburst997/Unity.Tween/tree/main/Sample~/Tween%20Sample) is also available.
+A [sample project](https://github.com/starburst997/Unity.Tween/tree/main/Samples~/Tween%20Sample) is also available.
 
 ## TODO
 
