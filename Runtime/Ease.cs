@@ -76,7 +76,9 @@ namespace JD.Tween
         InWarp = 41,
         OutWarp = 42,
         WarpInOut = 43,
-        WarpOutIn = 44
+        WarpOutIn = 44,
+        
+        None = 255
     }
     
     public static class EasingFunc
@@ -191,6 +193,8 @@ namespace JD.Tween
                     return WarpInOut(t);
                 case JD.Tween.Ease.WarpOutIn:
                     return WarpOutIn(t);
+                case JD.Tween.Ease.None:
+                    return 1f;
                 default:
                     throw new ArgumentOutOfRangeException(nameof(ease), ease, null);
             }
