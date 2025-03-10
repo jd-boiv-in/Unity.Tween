@@ -6,8 +6,8 @@
   "dependencies": {
     "jd.boiv.in.extensions": "1.0.0",
     "jd.boiv.in.text": "1.0.0"
- },
- "keywords": [
+  },
+  "keywords": [
     "tween"
   ],
   "author": {
